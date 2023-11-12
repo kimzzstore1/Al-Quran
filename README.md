@@ -7,13 +7,13 @@
   <p>Free Online Al-Quran Website</p>
 </div>
 <div align="center">
-  <a href="https://alquranid.herokuapp.com/">Website</a> | <a href="https://discord.gg/9BaNBVNtw4">Report Bug</a> | <a href="https://github.com/DrelezTM/Al-Quran/">Repository</a>
+  <a href="https://alquranku.kimzzoffc.me/">Website</a> | <a href="https://wa.me/60146351257">Report Bug</a> | <a href="https://github.com/kimzzstore/Al-Quran/">Repository</a>
 </div>
 
 ## Installation 📑
 * Clone Repository
   ```sh
-  git clone https://github.com/DrelezTM/Al-Quran
+  git clone https://github.com/kimzzstore/Al-Quran
   ```
 * Install Modules
   ```sh
