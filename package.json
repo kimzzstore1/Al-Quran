@@ -5,7 +5,8 @@
   "author": "Kimzz",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build": "netlify-lambda build express"
   },
   "dependencies": {
     "ejs": "^3.1.6",
